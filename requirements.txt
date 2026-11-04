@@ -1,0 +1,23 @@
+# ==============================================================================
+# Course: M4010104 / M4020104 — Programming in Python
+# Core Dependencies for Lectures, Laboratory Worksheets, Tests & Capstone Projects
+# Recommended Python Version: >= 3.10, < 3.13
+# ==============================================================================
+
+# Core Numerical & Tabular Data Processing (Modules 2 & 3)
+numpy>=1.24.0,<3.0.0
+pandas>=2.0.0,<3.0.0
+scipy>=1.10.0,<2.0.0
+
+# Statistical & Publication-Grade Data Visualization
+matplotlib>=3.7.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
+plotly>=5.15.0,<6.0.0
+
+# Optional Tabular & Spreadsheet Support
+openpyxl>=3.1.0
+
+# Interactive Notebook Environment & Kernel Execution
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+notebook>=7.0.0

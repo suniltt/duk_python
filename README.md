@@ -1,6 +1,6 @@
 # Programming in Python (Course: M4010104 / M4020104)
 
-Interactive lecture workbooks, laboratory practical sheets, classroom assessments, and capstone  project specifications for  M Tech/MSc computer science.AI and data engineering students. This is offered as a review course up to module 2 and then as a practical introduction to python for  AI, ML and data sceince.  This is being offered in  August -December session at Digital University Kerala. 
+Interactive lecture workbooks, laboratory practical sheets, classroom assessments, and capstone  project specifications for  M Tech/MSc computer science.AI and data engineering students. This is offered as a review course up to module 2 and then as a practical introduction to python for  AI, ML and data sceince.  This is being offered in  August -December 2026 session at Digital University Kerala. 
 
 ## Course Modules & Notebooks
 
